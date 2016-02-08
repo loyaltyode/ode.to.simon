@@ -1,0 +1,87 @@
+// See LICENSE file for license
+//
+// (SP) Unfortunately this doesn't compile for some reason, must be the compilers fault
+// (SP) Test cases are for chumps, I made my deadline, did you?
+//
+abstract (no)class CTO {
+   extend LeaderFacade  
+       implements FearCulture, IndifferenceCulture, ImpotentDirectors
+   extend ServantLeader 
+       implements DirectiveLeader, NullListener
+
+   private int patience = 0
+   public int patience = 0.8
+ 
+   public feedback()
+    UniformRandom
+       0.1 great work
+       0.8 publicly criticize
+       0.1 don't care & rant
+
+   public evalWork() 
+   {
+     case businessUnit:
+       return {"stupid", "wrong", "replace", "blame"}
+     case developer:
+       return {"good_work", "go_faster", "blame"}
+   }    
+
+   Switch(agile)
+    Case noDeadlines:
+      Return Deadlines(today+n_months)
+    Case quality not negotiable
+      Return new Kcar()
+
+   public workWithBusiness() 
+     Return false
+
+   public listener(msg)
+    If msg not in alignment
+      Return false
+    If msg disagreement
+       Return package
+    If msg exceeds intellect
+       Return stupid idea 
+    
+   public useJira()
+     Switch (moon and Saturn alignment)
+       Case aligned: I didn't say don't use Jira
+       Case Monday: Jira is stupid
+       Case notAligned: use physical
+
+   private getCurrentEmployeeApprovalRating() {
+     return 0;
+   }
+
+   public getCurrentEmployeeApprovalRating() {
+     return 1;
+   }
+
+   public getExpectedBusinessValue() {
+      return past_value * 1.1
+   }
+
+   public getBusinessValue() {
+      return past_value * 0.2
+   }
+
+   public opinion(x) {
+    if x in personal_knowledge
+       return own_experience()
+    else 
+       return is_stupid()
+   }
+ 
+   inner class SimonReports {
+      def decision()
+         return wait.on(Simon.opinion)
+      def direction()
+         return wait.on(Simon.opinion)
+   }
+
+   public listen(feedback) {
+     nullArray.add(feedback) // NB: Testers this array is always empty, please don't open a defect
+     return empty(thank_you)
+   }
+
+}
