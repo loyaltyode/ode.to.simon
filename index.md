@@ -1,4 +1,8 @@
 ---
-title: Ode
+title: Ode to Simon
 ---
-# Hello world!
+# Ode to Simon Palmer
+
+Enjoy. Fork and make it better.
+
+https://raw.githubusercontent.com/loyaltyode/ode.to.simon/master/ode.txt
