@@ -5,4 +5,4 @@ title: Ode to Simon
 
 Enjoy. Fork and make it better.
 
-https://raw.githubusercontent.com/loyaltyode/ode.to.simon/master/ode.txt
+[Ode to Simon](https://raw.githubusercontent.com/loyaltyode/ode.to.simon/master/ode.txt)
